@@ -13,6 +13,7 @@
 		64EF701F1EAE8D4600951DD9 /* PracticaDos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 64EF701D1EAE8D4600951DD9 /* PracticaDos.xcdatamodeld */; };
 		64EF70211EAE8D4600951DD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64EF70201EAE8D4600951DD9 /* Assets.xcassets */; };
 		64EF70241EAE8D4600951DD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64EF70221EAE8D4600951DD9 /* LaunchScreen.storyboard */; };
+		64EF702C1EAE917F00951DD9 /* FallaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64EF702B1EAE917F00951DD9 /* FallaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		64EF70201EAE8D4600951DD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64EF70231EAE8D4600951DD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		64EF70251EAE8D4600951DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64EF702B1EAE917F00951DD9 /* FallaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FallaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				64EF70221EAE8D4600951DD9 /* LaunchScreen.storyboard */,
 				64EF70251EAE8D4600951DD9 /* Info.plist */,
 				64EF701D1EAE8D4600951DD9 /* PracticaDos.xcdatamodeld */,
+				64EF702B1EAE917F00951DD9 /* FallaViewController.swift */,
 			);
 			path = PracticaDos;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				64EF70191EAE8D4600951DD9 /* ViewController.swift in Sources */,
 				64EF701F1EAE8D4600951DD9 /* PracticaDos.xcdatamodeld in Sources */,
 				64EF70171EAE8D4600951DD9 /* AppDelegate.swift in Sources */,
+				64EF702C1EAE917F00951DD9 /* FallaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
